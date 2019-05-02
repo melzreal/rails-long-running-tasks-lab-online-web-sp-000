@@ -10,7 +10,7 @@ gem 'faker'
 gem 'listen'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
-gem 'bootstap'
+gem 'bootsnap'
 
 group :development, :test do
   gem 'pry'
