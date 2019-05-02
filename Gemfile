@@ -9,6 +9,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'faker'
 gem 'listen'
 gem 'coffee-rails', '~> 4.1.0'
+gem 'jquery-rails'
 
 group :development, :test do
   gem 'pry'
